@@ -9,7 +9,7 @@
 This repository contains the complete code and data for the paper:
 
 **"Landsat-Based Meander Migration Mapping Using Curvature-Driven Centerline Evolution"**  
-* IEEE Geoscience and Remote Sensing Letters (2026)*
+
 
 The framework extracts river centerlines from Landsat time series (1984-2024) and models meander migration as a function of local curvature: **M = β·κ**.
 
