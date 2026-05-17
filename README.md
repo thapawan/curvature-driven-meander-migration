@@ -1,8 +1,8 @@
 # Curvature-Driven Meander Migration from Landsat Time Series
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.19521822)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Google Earth Engine](https://img.shields.io/badge/Google-Earth_Engine-4285F4?logo=google-earth&logoColor=white)](https://earthengine.google.com/)
+[![Google Earth Engine](https://img.shields.io/badge/Google-Earth_Engine-4285F4?logo=google-earth&logoColor=white)](https://code.earthengine.google.com/5772d61c7823262bb6fb8de44ef7bf59)
 [![IEEE GRSL](https://img.shields.io/badge/IEEE-GRSL-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
@@ -10,7 +10,7 @@
 
 This repository provides a complete, reproducible implementation of a **curvature-informed framework for quantifying river meander migration** from multi-decadal Landsat imagery. The framework bridges the gap between geometric change detection and process-based meander theory by modeling lateral migration as a function of local channel curvature.
 
-**Associated Paper:** *"Landsat-Based Meander Migration Mapping Using Curvature-Driven Centerline Evolution"* — Under Submission IEEE Geoscience and Remote Sensing Letters (2026)
+**Associated Paper:** *"Landsat-Based Meander Migration Mapping Using Curvature-Driven Centerline Evolution"* — Under Review IEEE Geoscience and Remote Sensing Letters (2026)
 
 ### Key Features
 
