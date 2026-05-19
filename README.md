@@ -10,7 +10,7 @@
 
 This repository provides a complete, reproducible implementation of a **curvature-informed framework for quantifying river meander migration** from multi-decadal Landsat imagery. The framework bridges the gap between geometric change detection and process-based meander theory by modeling lateral migration as a function of local channel curvature.
 
-**Associated Paper:** *"Landsat-Based Meander Migration Mapping Using Curvature-Driven Centerline Evolution"* — Under Review IEEE Geoscience and Remote Sensing Letters (2026)
+**Associated Paper:** *"Landsat-Based Meander Migration Mapping Using Curvature-Driven Centerline Evolution"*
 
 ### Key Features
 
